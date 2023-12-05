@@ -23,7 +23,7 @@
     <parent>
         <artifactId>jboss-parent</artifactId>
         <groupId>org.jboss</groupId>
-        <version>37</version>
+        <version>39</version>
     </parent>
 
     <groupId>org.wildfly.bom</groupId>
